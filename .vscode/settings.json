@@ -1,0 +1,8 @@
+
+{
+  "deno.enable": true,
+  "deno.enablePaths": [
+    "./supabase/functions/send-group-notification"
+  ],
+  "deno.lint": true
+}

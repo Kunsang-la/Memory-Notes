@@ -39,3 +39,19 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# Firebase configuration
+google-services.json
+
+# Supabase local files
+supabase/.temp/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Keep example environment files
+!.env.example
+
+# Service account credentials
+*service-account*.json
